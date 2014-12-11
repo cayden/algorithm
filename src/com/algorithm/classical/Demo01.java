@@ -31,6 +31,10 @@ public class Demo01 {
 		else
 			return f(x - 1) + f(x - 2);
 	}
+	
+	private void test(){
+		System.out.println(999);
+	}
 
 
 }
